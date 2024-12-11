@@ -6,17 +6,18 @@
 
 Programming: C++, Python
 Web Development: React.js, HTML, CSS, JavaScript, Bootstrap
-IoT: Arduino IDE, DHT11 sensor, NodeMCU
 Design Tools: Figma, Photoshop
+
 🚀 Projects:
 
 Emotion Recognition System: Integrating body gesture and facial expression detection.
-Temperature & Humidity Sensor: Real-time data monitoring using IoT and cloud solutions.
 Chat Application: Terminal-based app with multithreading for real-time communication.
+
 💡 Certifications:
 
 Infosys - React Web Developer Certification
 Infosys - Associate in IT Foundation Skills (Python)
+
 📚 Internships:
 
 Software Developer Intern at JIL Information Technology: Developed a React-based college portfolio website.
